@@ -32,5 +32,7 @@ Display of the score the players have earned.
 - The pictures of the characters are also randomly picked. Not always the same.
 - The amounts of characters that appear in every tempo of the music aren’t the same.
 - Two songs for the players to pick.
+
 The above features causes the game to be more diverse and produces excitement and unpredictability to the players and also increase the difficulty of the game, making it much more challenging than normal tempo games.
+
 Also to prevent boredom, we provide two songs for the players to pick, so they wouldn’t get sick of the game too easily.
