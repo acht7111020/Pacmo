@@ -2,7 +2,7 @@
 A music tample game, which is based on FPGA board.
 Press the button on the Keypad of the FPGA board and earn points when you successfully press the right button when objects drop down shown on the board. Win the points.
 
-# Functionality
+### Functionality
 In our final project, we have designed a music tempo game. The concept of the game is to press the button on the Keypad of the FPGA board and earn points when you successfully press the right button when objects drop down shown on the board. We will demonstrate and describe the details below.
 
 Initially, when the game is programmed onto the board, there would be nothing but a line on the screen of the LCD.
@@ -27,7 +27,7 @@ The gaming snapshot. ![Alt text](/pic/Pacmo_point.jpg)
 Display of the score the players have earned.
 
 
-# Special Features
+### Special Features
 - The situations where the characters are shown are randomly picked.
 - The pictures of the characters are also randomly picked. Not always the same.
 - The amounts of characters that appear in every tempo of the music aren’t the same.
